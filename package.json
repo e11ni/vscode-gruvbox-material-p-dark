@@ -1,0 +1,26 @@
+{
+    "name": "vscode-gruvbox-material-p-dark",
+    "displayName": "Gruvbox Material P Dark",
+    "description": "Dark gruvbox theme with material palette and some color improvements",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "author": "Petr Maliarov (https://github.com/e11ni)",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/e11ni/vscode-gruvbox-material-p-dark.git"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gruvbox Material P Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Gruvbox Material P Dark-color-theme.json"
+            }
+        ]
+    }
+}
