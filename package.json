@@ -3,7 +3,7 @@
     "displayName": "Gruvbox Material P Dark",
     "description": "Dark gruvbox theme with material palette and some color improvements",
     "publisher": "PetrMaliarov",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.58.0"
     },
